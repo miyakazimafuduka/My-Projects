@@ -1,0 +1,28 @@
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\bin\Debug\HIGHSCHOOLPROJECT.exe.config
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\bin\Debug\HIGHSCHOOLPROJECT.exe
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\bin\Debug\HIGHSCHOOLPROJECT.pdb
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.Form1.resources
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.Properties.Resources.resources
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.Register.resources
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.csproj.GenerateResource.Cache
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.exe
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.pdb
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.csprojResolveAssemblyReference.cache
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.MenuBoard.resources
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.LoginForm.resources
+C:\Users\milok\AppData\Local\Temporary Projects\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.UpdateForm.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\bin\Debug\HIGHSCHOOLPROJECT.exe.config
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.exe
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\bin\Debug\HIGHSCHOOLPROJECT.exe
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\bin\Debug\HIGHSCHOOLPROJECT.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.csprojResolveAssemblyReference.cache
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.Form1.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.LoginForm.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.MenuBoard.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.Properties.Resources.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.Register.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.UpdateForm.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.csproj.GenerateResource.Cache
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.RegistrationForm.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\HIGHSCHOOLPROJECT\HIGHSCHOOLPROJECT\obj\Debug\HIGHSCHOOLPROJECT.SchoolRules.resources

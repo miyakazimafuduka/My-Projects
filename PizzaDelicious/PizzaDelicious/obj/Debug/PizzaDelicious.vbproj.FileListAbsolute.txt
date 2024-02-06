@@ -1,0 +1,20 @@
+C:\Users\milok\AppData\Local\Temporary Projects\PizzaDelicious\bin\Debug\PizzaDelicious.exe.config
+C:\Users\milok\AppData\Local\Temporary Projects\PizzaDelicious\bin\Debug\PizzaDelicious.exe
+C:\Users\milok\AppData\Local\Temporary Projects\PizzaDelicious\bin\Debug\PizzaDelicious.pdb
+C:\Users\milok\AppData\Local\Temporary Projects\PizzaDelicious\bin\Debug\PizzaDelicious.xml
+C:\Users\milok\AppData\Local\Temporary Projects\PizzaDelicious\obj\Debug\PizzaDelicious.Form1.resources
+C:\Users\milok\AppData\Local\Temporary Projects\PizzaDelicious\obj\Debug\PizzaDelicious.Resources.resources
+C:\Users\milok\AppData\Local\Temporary Projects\PizzaDelicious\obj\Debug\PizzaDelicious.vbproj.GenerateResource.Cache
+C:\Users\milok\AppData\Local\Temporary Projects\PizzaDelicious\obj\Debug\PizzaDelicious.exe
+C:\Users\milok\AppData\Local\Temporary Projects\PizzaDelicious\obj\Debug\PizzaDelicious.xml
+C:\Users\milok\AppData\Local\Temporary Projects\PizzaDelicious\obj\Debug\PizzaDelicious.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\PizzaDelicious\PizzaDelicious\bin\Debug\PizzaDelicious.exe.config
+C:\Users\milok\Documents\Visual Studio 2012\Projects\PizzaDelicious\PizzaDelicious\obj\Debug\PizzaDelicious.exe
+C:\Users\milok\Documents\Visual Studio 2012\Projects\PizzaDelicious\PizzaDelicious\obj\Debug\PizzaDelicious.xml
+C:\Users\milok\Documents\Visual Studio 2012\Projects\PizzaDelicious\PizzaDelicious\obj\Debug\PizzaDelicious.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\PizzaDelicious\PizzaDelicious\bin\Debug\PizzaDelicious.exe
+C:\Users\milok\Documents\Visual Studio 2012\Projects\PizzaDelicious\PizzaDelicious\bin\Debug\PizzaDelicious.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\PizzaDelicious\PizzaDelicious\bin\Debug\PizzaDelicious.xml
+C:\Users\milok\Documents\Visual Studio 2012\Projects\PizzaDelicious\PizzaDelicious\obj\Debug\PizzaDelicious.Form1.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\PizzaDelicious\PizzaDelicious\obj\Debug\PizzaDelicious.Resources.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\PizzaDelicious\PizzaDelicious\obj\Debug\PizzaDelicious.vbproj.GenerateResource.Cache

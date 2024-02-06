@@ -1,0 +1,20 @@
+C:\Users\milok\AppData\Local\Temporary Projects\Wsu Catering\bin\Debug\Wsu Catering.exe.config
+C:\Users\milok\AppData\Local\Temporary Projects\Wsu Catering\bin\Debug\Wsu Catering.exe
+C:\Users\milok\AppData\Local\Temporary Projects\Wsu Catering\bin\Debug\Wsu Catering.pdb
+C:\Users\milok\AppData\Local\Temporary Projects\Wsu Catering\bin\Debug\Wsu Catering.xml
+C:\Users\milok\AppData\Local\Temporary Projects\Wsu Catering\obj\Debug\Wsu_Catering.Form1.resources
+C:\Users\milok\AppData\Local\Temporary Projects\Wsu Catering\obj\Debug\Wsu_Catering.Resources.resources
+C:\Users\milok\AppData\Local\Temporary Projects\Wsu Catering\obj\Debug\Wsu Catering.vbproj.GenerateResource.Cache
+C:\Users\milok\AppData\Local\Temporary Projects\Wsu Catering\obj\Debug\Wsu Catering.exe
+C:\Users\milok\AppData\Local\Temporary Projects\Wsu Catering\obj\Debug\Wsu Catering.xml
+C:\Users\milok\AppData\Local\Temporary Projects\Wsu Catering\obj\Debug\Wsu Catering.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Wsu Catering\Wsu Catering\bin\Debug\Wsu Catering.exe.config
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Wsu Catering\Wsu Catering\obj\Debug\Wsu Catering.exe
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Wsu Catering\Wsu Catering\obj\Debug\Wsu Catering.xml
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Wsu Catering\Wsu Catering\obj\Debug\Wsu Catering.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Wsu Catering\Wsu Catering\bin\Debug\Wsu Catering.exe
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Wsu Catering\Wsu Catering\bin\Debug\Wsu Catering.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Wsu Catering\Wsu Catering\bin\Debug\Wsu Catering.xml
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Wsu Catering\Wsu Catering\obj\Debug\Wsu_Catering.Form1.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Wsu Catering\Wsu Catering\obj\Debug\Wsu_Catering.Resources.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Wsu Catering\Wsu Catering\obj\Debug\Wsu Catering.vbproj.GenerateResource.Cache

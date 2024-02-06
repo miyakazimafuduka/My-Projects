@@ -1,0 +1,20 @@
+C:\Users\milok\AppData\Local\Temporary Projects\Add Two Numbers\bin\Debug\Add Two Numbers.exe.config
+C:\Users\milok\AppData\Local\Temporary Projects\Add Two Numbers\bin\Debug\Add Two Numbers.exe
+C:\Users\milok\AppData\Local\Temporary Projects\Add Two Numbers\bin\Debug\Add Two Numbers.pdb
+C:\Users\milok\AppData\Local\Temporary Projects\Add Two Numbers\bin\Debug\Add Two Numbers.xml
+C:\Users\milok\AppData\Local\Temporary Projects\Add Two Numbers\obj\Debug\Add_Two_Numbers.FrmAdd.resources
+C:\Users\milok\AppData\Local\Temporary Projects\Add Two Numbers\obj\Debug\Add_Two_Numbers.Resources.resources
+C:\Users\milok\AppData\Local\Temporary Projects\Add Two Numbers\obj\Debug\Add Two Numbers.vbproj.GenerateResource.Cache
+C:\Users\milok\AppData\Local\Temporary Projects\Add Two Numbers\obj\Debug\Add Two Numbers.exe
+C:\Users\milok\AppData\Local\Temporary Projects\Add Two Numbers\obj\Debug\Add Two Numbers.xml
+C:\Users\milok\AppData\Local\Temporary Projects\Add Two Numbers\obj\Debug\Add Two Numbers.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Add Two Numbers\Add Two Numbers\bin\Debug\Add Two Numbers.exe.config
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Add Two Numbers\Add Two Numbers\obj\Debug\Add Two Numbers.exe
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Add Two Numbers\Add Two Numbers\obj\Debug\Add Two Numbers.xml
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Add Two Numbers\Add Two Numbers\obj\Debug\Add Two Numbers.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Add Two Numbers\Add Two Numbers\bin\Debug\Add Two Numbers.exe
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Add Two Numbers\Add Two Numbers\bin\Debug\Add Two Numbers.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Add Two Numbers\Add Two Numbers\bin\Debug\Add Two Numbers.xml
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Add Two Numbers\Add Two Numbers\obj\Debug\Add_Two_Numbers.FrmAdd.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Add Two Numbers\Add Two Numbers\obj\Debug\Add_Two_Numbers.Resources.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\Add Two Numbers\Add Two Numbers\obj\Debug\Add Two Numbers.vbproj.GenerateResource.Cache

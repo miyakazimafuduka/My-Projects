@@ -1,0 +1,22 @@
+C:\Users\milok\AppData\Local\Temporary Projects\EmployeesDb\bin\Debug\EmployeesDb.exe.config
+C:\Users\milok\AppData\Local\Temporary Projects\EmployeesDb\bin\Debug\Database6.accdb
+C:\Users\milok\AppData\Local\Temporary Projects\EmployeesDb\bin\Debug\EmployeesDb.exe
+C:\Users\milok\AppData\Local\Temporary Projects\EmployeesDb\bin\Debug\EmployeesDb.pdb
+C:\Users\milok\AppData\Local\Temporary Projects\EmployeesDb\bin\Debug\EmployeesDb.xml
+C:\Users\milok\AppData\Local\Temporary Projects\EmployeesDb\obj\Debug\EmployeesDb.Form1.resources
+C:\Users\milok\AppData\Local\Temporary Projects\EmployeesDb\obj\Debug\EmployeesDb.Resources.resources
+C:\Users\milok\AppData\Local\Temporary Projects\EmployeesDb\obj\Debug\EmployeesDb.vbproj.GenerateResource.Cache
+C:\Users\milok\AppData\Local\Temporary Projects\EmployeesDb\obj\Debug\EmployeesDb.exe
+C:\Users\milok\AppData\Local\Temporary Projects\EmployeesDb\obj\Debug\EmployeesDb.xml
+C:\Users\milok\AppData\Local\Temporary Projects\EmployeesDb\obj\Debug\EmployeesDb.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\EmployeesDb\EmployeesDb\bin\Debug\EmployeesDb.exe.config
+C:\Users\milok\Documents\Visual Studio 2012\Projects\EmployeesDb\EmployeesDb\obj\Debug\EmployeesDb.exe
+C:\Users\milok\Documents\Visual Studio 2012\Projects\EmployeesDb\EmployeesDb\obj\Debug\EmployeesDb.xml
+C:\Users\milok\Documents\Visual Studio 2012\Projects\EmployeesDb\EmployeesDb\obj\Debug\EmployeesDb.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\EmployeesDb\EmployeesDb\bin\Debug\Database6.accdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\EmployeesDb\EmployeesDb\bin\Debug\EmployeesDb.exe
+C:\Users\milok\Documents\Visual Studio 2012\Projects\EmployeesDb\EmployeesDb\bin\Debug\EmployeesDb.pdb
+C:\Users\milok\Documents\Visual Studio 2012\Projects\EmployeesDb\EmployeesDb\bin\Debug\EmployeesDb.xml
+C:\Users\milok\Documents\Visual Studio 2012\Projects\EmployeesDb\EmployeesDb\obj\Debug\EmployeesDb.Form1.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\EmployeesDb\EmployeesDb\obj\Debug\EmployeesDb.Resources.resources
+C:\Users\milok\Documents\Visual Studio 2012\Projects\EmployeesDb\EmployeesDb\obj\Debug\EmployeesDb.vbproj.GenerateResource.Cache
